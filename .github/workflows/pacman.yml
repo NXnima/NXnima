@@ -3,7 +3,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -15,12 +15,14 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: NXnima
+          games: "pacman"
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

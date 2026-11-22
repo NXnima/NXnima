@@ -30,16 +30,16 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXnima&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 👾 My Contribution Arcade
+<h2 align="center">👾 My Contribution Arcade</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NXnima/NXnima/output/pacman-contribution-graph-dark.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-<p align="center">
-  <b>🚀 Keep Learning. Keep Building. Keep Exploring.</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NXnima/NXnima/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/NXnima/NXnima/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph"
+      src="https://raw.githubusercontent.com/NXnima/NXnima/output/pacman-contribution-graph.svg"
+      width="100%">
+  </picture>
 </p>
