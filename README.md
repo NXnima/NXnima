@@ -26,14 +26,14 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NXnima&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXnima&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 👾 My Contribution Arcade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/NXnima/NXnima/output/pacman-contribution-graph-dark.svg" width="100%" />
 </p>
 
 <p align="center">
